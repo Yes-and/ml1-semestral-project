@@ -1,5 +1,7 @@
 # Stroke prediction using ML
 
+> This code was used for a machine learning class
+
 We have a dataset, that contains several variables used to predict a stroke.
 [Link to dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
