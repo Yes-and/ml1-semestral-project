@@ -1,8 +1,12 @@
-# Semestral work for Machine Learning 1
+# Stroke prediction using ML
 
 We have a dataset, that contains several variables used to predict a stroke.
-
 [Link to dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
+I would recommend starting with _conclusion.ipynb_. It lists all of the observations made by the ML models and measures their accuracy.
+
+Executive summary:
+- Diabetic diagnosis can strongly increase stroke probability together with age
 
 # How to prepare an environment
 
