@@ -19,7 +19,3 @@ Executive summary:
 5. You should see small text with venv on the left of your directory in cmd
 6. Use command "pip install -r requirements.txt"
 7. Congrats, you are done!
-
-# Data specification
-
-TODO: fill in data specification, add charts from analysis
